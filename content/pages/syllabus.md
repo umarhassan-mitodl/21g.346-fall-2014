@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, course mechanics, assignments, grading, technology,
   enrollment limits, academic integrity, and required books.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -110,7 +112,7 @@ Enrollment limited to 18 for pedagogical purposes. Priority will be given to pre
 Academic Integrity
 ------------------
 
-Students are expected to adhere to {{% resource_link "681c82e3-1018-427c-95f9-64bb0035aeb9" "MIT's Academic Integrity" %}} policies. All work (research papers, weekly papers, presentations) must be completed independently, unless otherwise cleared by the instructor. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates or have a classmate look over a draft of their creative project), but they are individually responsible for all written work.
+Students are expected to adhere to [MIT's Academic Integrity](http://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently, unless otherwise cleared by the instructor. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates or have a classmate look over a draft of their creative project), but they are individually responsible for all written work.
 
 Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 

@@ -10,7 +10,7 @@ uid: ec030ba6-4e43-37bc-2e12-806855012218
 ---
 ## Textbook
 
-\[Jones\] = Jones, Colin. *Paris: Biography of a City*. Penguin Books, 2006. ISBN: 9780143036715. \[Preview with {{% resource_link "af58baed-c781-418d-bd2b-42af5008d223" "Google Books" %}}\]
+\[Jones\] = Jones, Colin. *Paris: Biography of a City*. Penguin Books, 2006. ISBN: 9780143036715. \[Preview with [Google Books](http://books.google.com/books?id=T15L95-TsGMC&pg=PAfrontcover)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -34,9 +34,9 @@ Higonnet. "A City of Myths." dans *Paris: Capital of the World*. Belknap Press, 
 
 Corbin, Alain. "Paris Province." In *Les Lieux De Mémoire Vol. 3: Les Frances II Et III*. Gallimard, 2007. ISBN: 9782070749041.
 
-Gopnik, Adam. "{{% resource_link "44a85474-6723-4e7e-a831-612cc0252dc7" "Bakeoff: What is Happening to our Pastry?" %}}" *The New Yorker*, November 2014.
+Gopnik, Adam. "[Bakeoff: What is Happening to our Pastry?](http://www.newyorker.com/magazine/2014/11/03/bakeoff)" *The New Yorker*, November 2014.
 
-———. "{{% resource_link "7be26689-9b28-4a9b-866c-d3ecf8f09b37" "The View from a Bridge" %}}." *The New Yorker*, December 2014.
+———. "[The View from a Bridge](http://www.newyorker.com/magazine/2014/12/08/view-bridge)." *The New Yorker*, December 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -46,7 +46,7 @@ Haussmannisation: Paris et ailleurs
 
 ### Film
 
-{{% resource_link "78984485-3cc7-4ed4-b236-df8d719bd3c2" "*Paris, roman d'une ville*" %}}. Directed by Stan Neumann. Black & White, 52 min. 1991. \[Watch on {{% resource_link "16e01617-88ee-428a-bfb4-b8e41a8279a4" "YouTube" %}}\]
+[*Paris, roman d'une ville*](http://www.imdb.com/title/tt0386706/). Directed by Stan Neumann. Black & White, 52 min. 1991. \[Watch on [YouTube](https://www.youtube.com/watch?v=VsqYRFqcicw)\]
 
 Textes
 
@@ -68,15 +68,15 @@ Les Expositions universelles
 
 ### Film
 
-Marc Allegret. « {{% resource_link "5f0e5e5c-1e84-4191-ae6e-f542e8a66e3e" "L'expo universelle de 1900" %}} » (Paris 1900 vu par les frères Lumière). 27 juilet, 1983. *Institut National Audiovisuel*.
+Marc Allegret. « [L'expo universelle de 1900](http://www.ina.fr/video/CAB8301052601) » (Paris 1900 vu par les frères Lumière). 27 juilet, 1983. *Institut National Audiovisuel*.
 
 ### Textes
 
 Higonnet, Patrice. « Paris exposition : du mythe à la fantasmagorie. » Chapitre XIII dans *Paris, capitale du monde*. Tallandier, 2006, pp. 313–38.
 
-Benjamin, Walter. {{% resource_link "ec535799-7616-48dd-9589-db8881ae6b43" "\"Paris capital du XIXe siècle.\" (PDF)" %}} (1939): 1–2 and 9–11. \[Vous allez lire un extrait - la partie B "Grandville ou les expositions universelles."\]
+Benjamin, Walter. ["Paris capital du XIXe siècle." (PDF)](http://classiques.uqac.ca/classiques/benjamin_walter/paris_capitale_19e_siecle/Benjamin_Paris_capitale.pdf) (1939): 1–2 and 9–11. \[Vous allez lire un extrait - la partie B "Grandville ou les expositions universelles."\]
 
-Lisez au moins 5 documents du site: {{% resource_link "22ce50de-0a30-4d54-a355-298c2a0938c4" "Collyon sur l'Exposition de 1900" %}}.
+Lisez au moins 5 documents du site: [Collyon sur l'Exposition de 1900](https://web.archive.org/web/20140630080426/http:/exposition-universelle-paris-1900.com/Accueil).
 
 ### Conseillé
 
@@ -90,7 +90,7 @@ Capitale de l'empire (with Special Guest Adriana Ortega)
 
 ### Film
 
-« {{% resource_link "46889ec6-b1df-441f-9695-8ae37fff3ce9" "*L'Exposition coloniale de 1931 à Vincennes*" %}}*.* » 6 mai, 1931. Fresques. *Institut National Audiovisuel*. \[N'oubliez pas de lire les textes aussi !\]
+« [*L'Exposition coloniale de 1931 à Vincennes*](http://fresques.ina.fr/jalons/fiche-media/InaEdu04713/l-exposition-coloniale-de-1931-a-vincennes.html)*.* » 6 mai, 1931. Fresques. *Institut National Audiovisuel*. \[N'oubliez pas de lire les textes aussi !\]
 
 ### Textes
 
@@ -100,7 +100,7 @@ Blanchard, Pascal, and Eric Deroo. "Contrôler: Paris, capitale coloniale (1931�
 
 \[Jones\] "Faded Dreams, Los Illusions: 1918–1945."
 
-"{{% resource_link "b0db342f-80e3-4a43-9470-23bc1748c71c" "1931\. Les étrangers au temps de l'Exposition colonial" %}}." Musée de l'histoire de l'immigration.
+"[1931\. Les étrangers au temps de l'Exposition colonial](http://www.histoire-immigration.fr/musee-numerique/expositions-temporaires/1931-les-etrangers-au-temps-de-l-exposition-coloniale)." Musée de l'histoire de l'immigration.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Immigration Et Paris Vu D'ailleurs**
@@ -118,9 +118,9 @@ Hemingway, Ernest. *Paris est une fête*. Gallimard, 1964, pp. 9–14, 30–49, 
 
 ### Radio
 
-"{{% resource_link "55d68739-a29d-4541-b847-1680fe501081" "Paris au regard de l'Amérique" %}}." 16 mars, 2013. *Concordance des temps.* France Culture.
+"[Paris au regard de l'Amérique](http://www.franceculture.fr/emission-concordance-des-temps-paris-au-regard-de-l-amerique-2013-03-16)." 16 mars, 2013. *Concordance des temps.* France Culture.
 
-This American Life. "{{% resource_link "0af2a53f-3b88-44d2-8676-d961d8f40993" "Episode 165: Americans in Paris" %}}." *WBEZ*. July 28, 2000.
+This American Life. "[Episode 165: Americans in Paris](http://www.thisamericanlife.org/radio-archives/episode/165/americans-in-paris)." *WBEZ*. July 28, 2000.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -150,9 +150,9 @@ Cours annulé - Conférence de Prof. S. Hollis Clayson à 17h (facultatif)
 
 ### Textes
 
-« {{% resource_link "2a4cc88b-38b0-4ddd-ac99-2d14b799d813" "Electric Paris" %}}. » *Sterling and Francine Clark Art Institute*.
+« [Electric Paris](https://www.scholars.northwestern.edu/en/publications/electric-paris-3). » *Sterling and Francine Clark Art Institute*.
 
-Schivelbusch, Wolfgang. *Disenchanted Night: The Industrialization of Light in the Nineteenth Century*. Translated by Angela Davies. University of California Press, 1995, pp. 1–5 and 81–134. \[Preview on {{% resource_link "7654718f-5ec0-47db-86a0-c8875bc6a254" "Google Books" %}}\]
+Schivelbusch, Wolfgang. *Disenchanted Night: The Industrialization of Light in the Nineteenth Century*. Translated by Angela Davies. University of California Press, 1995, pp. 1–5 and 81–134. \[Preview on [Google Books](http://books.google.com/books?id=6-4K1ruL2YIC&pg=PA85)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -162,9 +162,9 @@ Paris-Asie
 
 ### Films
 
-{{% resource_link "60964917-4392-4967-9f38-68c008ea2743" "*What Time is it There?*" %}} Directed by Tsai Ming-liang. Color, 116 min. 2001.
+[*What Time is it There?*](http://www.imdb.com/title/tt0269746/) Directed by Tsai Ming-liang. Color, 116 min. 2001.
 
-{{% resource_link "9843c221-4abc-48f8-a27c-e8b433637814" "*Les Chinois à Paris*" %}}. Directed by Jean Yanne. Color, 109 min. 1974.
+[*Les Chinois à Paris*](http://www.imdb.com/title/tt0069874/). Directed by Jean Yanne. Color, 109 min. 1974.
 
 ### Textes
 
@@ -174,7 +174,7 @@ Nishi, J. P. *'A nous deux,' Paris!* Traduit de japonais par Corinne Quentin. Pi
 
 \[Jones\] "The Remaking of Paris."
 
-{{% resource_link "3cd54fa7-51a2-4df2-ad7c-a47c4a58f09c" "*Virtual Shanghai*" %}}*.* \[Projet d'histoire numérique.\]
+[*Virtual Shanghai*](http://www.virtualshanghai.net/)*.* \[Projet d'histoire numérique.\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -190,11 +190,11 @@ Paris jeune 1968, événement global
 
 ### Films
 
-{{% resource_link "3a370fb2-291f-4205-be41-10a0e539af78" "*Les Amants reguliers*" %}}. Directed by Philippe Gareel. Black & White, 183 min. 2005.
+[*Les Amants reguliers*](http://www.imdb.com/title/tt0443844/). Directed by Philippe Gareel. Black & White, 183 min. 2005.
 
-{{% resource_link "46fd175c-3a7f-4906-a1de-2af6b1905c1d" "*Après Mai*" %}}. Directed by Olivier Assayas. Color, 122 min. 2012.
+[*Après Mai*](http://www.imdb.com/title/tt1846472/). Directed by Olivier Assayas. Color, 122 min. 2012.
 
-« {{% resource_link "55317cbf-ebe2-4118-9ef4-d0e85069ed72" "La contestation: La Terrible semaine qu'a vecue le Quartier latin" %}}. » 15 mai, 1968. Les Actualités Françaises. *Institut National Audiovisuel*.
+« [La contestation: La Terrible semaine qu'a vecue le Quartier latin](http://www.ina.fr/video/AFE86001191/la-contestation-la-terrible-semaine-qu-a-vecue-le-quartier-latin-video.html). » 15 mai, 1968. Les Actualités Françaises. *Institut National Audiovisuel*.
 
 ### Textes
 
@@ -202,7 +202,7 @@ Perec, Georges. *Les Choses*. Julliard, 1999, pp. 66–69 and 76–79. ISBN: 978
 
 ### Conseillé
 
-Guardian May 1968: "{{% resource_link "6a0abe59-060d-424e-844c-87fed61b8179" "Mai 68" %}}." Wikipédia.
+Guardian May 1968: "[Mai 68](http://fr.wikipedia.org/wiki/Mai_68)." Wikipédia.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **III. Copies, Icones, Images**
@@ -214,13 +214,13 @@ Paris pour enfants
 
 ### Films
 
-{{% resource_link "88ecb9a0-e86f-4f3f-9fcb-06d3c85daefa" "*Le Ballon rouge*" %}}. Directed by Albert Lamorisse. Color, 34 min. 1956.
+[*Le Ballon rouge*](http://www.imdb.com/title/tt0048980/). Directed by Albert Lamorisse. Color, 34 min. 1956.
 
-{{% resource_link "b7ddf211-befe-41aa-9308-a4fbac82df3e" "*Le voyage du ballon rouge*" %}}. Directed by Hsiao-Hsien Hou. Color, 115 min. 2007.
+[*Le voyage du ballon rouge*](http://www.imdb.com/title/tt0826711/). Directed by Hsiao-Hsien Hou. Color, 115 min. 2007.
 
 ### Textes
 
-Gopnik, Adam. "{{% resource_link "cde4c3fe-d8f3-460d-a104-93d6dd4fc97c" "Freeing the Elephants: What Babar Brought" %}}." *The New Yorker*, September 2008.
+Gopnik, Adam. "[Freeing the Elephants: What Babar Brought](http://www.newyorker.com/magazine/2008/09/22/freeing-the-elephants)." *The New Yorker*, September 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -242,22 +242,22 @@ Images, icônes, et copies (+diner ensemble)
 
 ### Film
 
-Stracke, Caspar. "{{% resource_link "6681f21a-7daa-432a-be0a-e3088fa56554" "Tianducheng" %}}." 21 janvier, 2013. Vimeo.
+Stracke, Caspar. "[Tianducheng](https://vimeo.com/57895709)." 21 janvier, 2013. Vimeo.
 
 ### Textes
 
 Barthes, Roland. *LaTour Eiffel*. Seuil / Centre national de la photographie, 1989. ISBN: 9782020114288.
 
-Frances, Patrick. "{{% resource_link "c98b54fc-6c90-484b-bf62-d2ed4b02b5ca" "Las Vegas ou l'envers du jeu" %}}." *Le Monde,* 20 janvier, 2000.
+Frances, Patrick. "[Las Vegas ou l'envers du jeu](http://www.lemonde.fr/archives/article/2000/01/20/las-vegas-ou-l-envers-du-jeu_3593309_1819218.html?xtmc=&xtcr=42)." *Le Monde,* 20 janvier, 2000.
 
 Loyrette, Henri. "La tour Eiffel." En *Les Lieux De Mémoire Vol. 3: Les Frances II Et III*. Edited by Pierre Nora. Gallimard, 2007, pp. 4270–93. ISBN: 9782070749041.
 
-"{{% resource_link "19f6edc1-5a84-4b03-9d4b-8251f6129e84" "L'étrange immeuble du 145 rue la Fayette" %}}." *Mon chat aime la photo*. 24 août, 2013.
+"[L'étrange immeuble du 145 rue la Fayette](http://mcalp.fr/post/letrange-immeuble-du-145-rue-la-fayette/)." *Mon chat aime la photo*. 24 août, 2013.
 
-"{{% resource_link "d8b77177-0296-4543-8a46-759083498c22" "Chine: la ville de Paris reproduite à Tianducheng" %}}." *Atlantico.* 5 août, 2013.
+"[Chine: la ville de Paris reproduite à Tianducheng](https://atlantico.fr/article/atlantico-light/chine--la-ville-de-paris-reproduite-a-tianducheng-)." *Atlantico.* 5 août, 2013.
 
-Zagrebnov, Eugène. "{{% resource_link "86cfdcb1-65c9-469e-93a1-eff11374f657" "Tianducheng, « Paris-fantôme » en Chine" %}}." 20 août, 2015. La Voix de la Russie / Sputnik.
+Zagrebnov, Eugène. "[Tianducheng, « Paris-fantôme » en Chine](http://fr.sputniknews.com/french.ruvr.ru/2013_08_06/Pustaja-kopija-Parizha-pod-SHanhaem-5562/#232780653)." 20 août, 2015. La Voix de la Russie / Sputnik.
 
-"{{% resource_link "46274fa0-aacd-4c43-bf1d-2ebe1c5f398c" "La Chine, sa tour Eiffel, ses châteaux, ses monuments" %}}!" Mode de vie, Magazine GEO - Spécial Corse (julliet). 27 juin, 2012, pp. 46–59.
+"[La Chine, sa tour Eiffel, ses châteaux, ses monuments](https://web.archive.org/web/20130801224920if_/http://www.geo.fr/photos/reportages-geo/la-chine-sa-tour-eiffel-ses-chateaux-ses-moulins/petit-paris)!" Mode de vie, Magazine GEO - Spécial Corse (julliet). 27 juin, 2012, pp. 46–59.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

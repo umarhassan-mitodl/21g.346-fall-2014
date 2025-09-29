@@ -82,7 +82,7 @@ uid: 22981939-b107-8540-2208-1f4871756b26
 - *An evening in Paris*
 - *Ishkq in Paris* – *2013*
 - *London, Paris, New Yor\_\_k* (2012)
-- Mazumdar, Ranjani. "{{% resource_link "ea5a1714-576b-4863-b9e9-052a8e60b236" "Aviation, Tourism and Dreaming in 1960s Bombay Cinema" %}}." *BioScope: South Asian Screen Studies* 2, no. 2 (2011): 129–55.
+- Mazumdar, Ranjani. "[Aviation, Tourism and Dreaming in 1960s Bombay Cinema](http://dx.doi.org/10.1177/097492761100200203)." *BioScope: South Asian Screen Studies* 2, no. 2 (2011): 129–55.
 - Ingrid Therwath, « 'Shining Indians': Diaspora and Exemplarity in Bollywood », *South Asia Multidisciplinary Academic Journal* \[Online\], 4 | 2010
 
 ### Slogans / affiches de '68
@@ -91,15 +91,15 @@ uid: 22981939-b107-8540-2208-1f4871756b26
 
 ### ’68 au MIT
 
-- commencez ici: Jeffreys, Katharyn. "{{% resource_link "e579f5bc-1916-427d-929b-319f15e359d8" "This Week in MIT History" %}}." November 2, 1999. *The Tech*. et
-- ici: {{% resource_link "d5ecd3c4-1db5-46ff-904c-f523a1ce1e65" "\"Turbulent Times.\" (PDF)" %}}
-- Comparez avec: da Cruz, Frank. "{{% resource_link "079ec30f-cb68-4934-b29b-931d2a38128f" "Columbia University 1968" %}}." Computing History, Columbia Unviersity website.
+- commencez ici: Jeffreys, Katharyn. "[This Week in MIT History](https://thetech.com/issues/119/55/pdf)." November 2, 1999. *The Tech*. et
+- ici: ["Turbulent Times." (PDF)](http://web.mit.edu/cis/pdf/Panel_TURBULENT_TIMES.pdf)
+- Comparez avec: da Cruz, Frank. "[Columbia University 1968](http://www.columbia.edu/cu/computinghistory/1968/)." Computing History, Columbia Unviersity website.
 
 ## III. Copies, Icones, Images
 
 ### Bemelmans' Madeline
 
-- NPR : "{{% resource_link "ea7f0c3f-dc2d-4e66-b95c-f436b29c501a" "At 75 She's Doing Fine; Kids Still Love Their 'Madeline" %}}.'" *NPR* (podcast).
+- NPR : "[At 75 She's Doing Fine; Kids Still Love Their 'Madeline](http://www.npr.org/2013/10/11/230949629/at-75-shes-doing-fine-kids-still-love-their-madeline).'" *NPR* (podcast).
 - Galbraith « Primal Postcards: Madeline as a Secret Space of Ludwig
 
 Bemelmans's Childhood »
@@ -111,6 +111,6 @@ Bemelmans's Childhood »
 
 - Annie Fourcaut, *Paris / banlieues Conflits et solidarités*
 - *Agrandir Paris*
-- {{% resource_link "3a7d6142-6e20-4ea6-b7b8-7182e7f94951" "Grand Paris Express: Le Métro du grand Paris" %}}.
+- [Grand Paris Express: Le Métro du grand Paris](http://www.societedugrandparis.fr/).
 - Ministère du logement, de l'égalité de territoires et de la ruralité. 
-- "{{% resource_link "d827b386-bd20-47f7-ba42-77a049af4479" "Nouveau Grand Paris : l'avancement du projet" %}}." *Les Echos*.
+- "[Nouveau Grand Paris : l'avancement du projet](https://www.lesechos.fr/2014/01/nouveau-grand-paris-lavancement-du-projet-287232#:~:text=Sa%20mise%20en%20service%20est,en%20passant%20par%20Massy%2DPalaiseau.)." *Les Echos*.
